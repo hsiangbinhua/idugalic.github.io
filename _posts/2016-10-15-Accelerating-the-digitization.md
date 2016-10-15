@@ -55,7 +55,7 @@ However, a pure Continuous Deployment approach is not always appropriate for eve
 
 [Jenkins 2](https://jenkins.io/2.0/) pipelines are pretty neat to. We don't think Spinnaker will every fully replace Jenkins and the million things it does. Spinnaker goal is to just make the 'deploy to cloud' step simpler and more extensible.
 
-References
+## References
 
   * <http://www.mckinsey.com/industries/high-tech/our-insights/what-digital-really-means>
   * <http://microservices.io/>
