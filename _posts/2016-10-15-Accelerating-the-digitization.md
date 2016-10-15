@@ -57,7 +57,7 @@ However, a pure Continuous Deployment approach is not always appropriate for eve
 
 References
 
-<http://www.mckinsey.com/industries/high-tech/our-insights/what-digital-really-means>
-<http://microservices.io/>
-<https://www.oreilly.com/ideas/achieving-cloud-native-operability-with-microservices-devops-and-continuous-delivery>
-<http://www.martinfowler.com/articles/microservices.html>
+  * <http://www.mckinsey.com/industries/high-tech/our-insights/what-digital-really-means>
+  * <http://microservices.io/>
+  * <https://www.oreilly.com/ideas/achieving-cloud-native-operability-with-microservices-devops-and-continuous-delivery>
+  * <http://www.martinfowler.com/articles/microservices.html>
