@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Accelerating the digitization of business processes 
+title: Accelerating the digitization 
 ---
 
 
