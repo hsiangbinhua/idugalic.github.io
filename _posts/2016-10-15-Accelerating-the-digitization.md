@@ -41,7 +41,7 @@ A cloud-native application is an application that has been designed and implemen
 
 ### Collaboration, automation, learning, measuring, and sharing
 
-However, with the uptake of microservices and containers new challenges are rising: “How can we manage aspects such as API contracts?” and “How can we apply changes across several repositories at once?”. Those challenges highlight the need for greater collaboration between, and within, teams and this is a challenge that Atomist is addressing. Atomist is setting out to tackle with a set of tools that integrate seamlessly with the teams’ practices.
+However, with the uptake of microservices and containers new challenges are rising: “How can we manage aspects such as API contracts?” and “How can we apply changes across several repositories at once?”. Those challenges highlight the need for greater collaboration between, and within, teams and this is a challenge that [Atomist](https://www.atomist.com) is addressing. Atomist is setting out to tackle with a set of tools that integrate seamlessly with the teams’ practices.
 
 With the rise of microservices, project creation is more and more important to individuals and organizations, as is maintaining consistency between a potentially large number of services.
 
@@ -51,12 +51,13 @@ The idea of automated deployment is important. Indeed, if you take automating th
 
 However, a pure Continuous Deployment approach is not always appropriate for everyone. For example, many users would not appreciate new versions falling into their laps several times a week, and prefer a more predictable (and transparent) release cycle. Commercial and marketing considerations might also play a role in when a new release should actually be deployed. The notion of Continuous Delivery is a slight variation on the idea of Continuous Deployment that takes into account these considerations.
 
-Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
+[Spinnaker](http://www.spinnaker.io/) is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
 
-Jenkins 2 pipelines are pretty neat to. We don't think Spinnaker will every fully replace Jenkins and the million things it does. Spinnaker goal is to just make the 'deploy to cloud' step simpler and more extensible.
+[Jenkins 2](https://jenkins.io/2.0/) pipelines are pretty neat to. We don't think Spinnaker will every fully replace Jenkins and the million things it does. Spinnaker goal is to just make the 'deploy to cloud' step simpler and more extensible.
 
 References
 
-http://www.mckinsey.com/industries/high-tech/our-insights/what-digital-really-means
-http://microservices.io/
-https://www.oreilly.com/ideas/achieving-cloud-native-operability-with-microservices-devops-and-continuous-delivery
+<http://www.mckinsey.com/industries/high-tech/our-insights/what-digital-really-means>
+<http://microservices.io/>
+<https://www.oreilly.com/ideas/achieving-cloud-native-operability-with-microservices-devops-and-continuous-delivery>
+<http://www.martinfowler.com/articles/microservices.html>
