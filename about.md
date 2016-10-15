@@ -14,4 +14,4 @@ My name is Ivan Dugalic, and I'm application architect.
 
 ### Contact me
 
-[email@domain.com](mailto:idugalic@gmail.com)
+[idugalic@gmail.com](mailto:idugalic@gmail.com)
