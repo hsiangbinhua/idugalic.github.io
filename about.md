@@ -10,7 +10,7 @@ It’s tempting to look for simple definitions, but to be meaningful and sustain
 
 Strategic application architects need to establish consistent, holistic approaches that enable the flexibility, scalability and versatility that digital business requires.
 
-My name is Ivan Dugalic, and I'm application architect.
+My name is Ivan Dugalic, and I'm strategic application architect.
 
 ### Contact me
 
