@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Accelerating the digitization 
+title: Accelerating the digitization with microservices
 ---
 
 
