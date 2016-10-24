@@ -25,6 +25,7 @@ Main aspects of this role are:
 - methodology and strategy
 
 ### Leadership and Communication
+
 #### Three C’s:
 
 - communication (effectively communicate ideas, concepts, issues and solutions to stakeholders)
@@ -48,6 +49,7 @@ Main aspects of this role are:
 - third level: stuff you do not know you don’t know
 
 Focus on the second level.
+
 #### Multi-platform knowledge
 
 - golden hammer antipattern - one platform to rule them all
@@ -87,7 +89,7 @@ Be aware of many different methodologies. You can influence on the business to c
 
 - try to create a hybrid to strike the right balance
 
-** Regardless of what you do, as an architect you have to make it work!**
+**Regardless of what you do, as an architect you have to make it work!**
 
 ## References
 - 97 Things Every Software Architect Should Know
