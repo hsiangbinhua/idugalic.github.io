@@ -3,6 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
+
 ## Projects
 
 - http://idugalic.github.io/micro-company/
