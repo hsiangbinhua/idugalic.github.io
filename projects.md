@@ -10,5 +10,9 @@ Rest-full, Hipermedia-based, distributed application. Spring boot & cloud. CQRS.
 ## [micro-ecommerce](http://idugalic.github.io/micro-ecommerce/)
 Rest-full, Hipermedia-based, distributed application. Spring boot & cloud. CQRS. Microservices. Docker.
 
+
+## [reactive-company](http://idugalic.github.io/reactive-company/)
+This project is intended to demonstrate best practices for building a reactive web application with Spring platform.
+
 ## [alfresco-hr](http://idugalic.github.io/alfresco-hr/)
 Content management application. Alfresco. BPM.  Sample Human Resources business process
