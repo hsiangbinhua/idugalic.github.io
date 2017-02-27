@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Being a software architect - cheat sheet
+title: Being a software architect
 ---
 
 Being a software architect involves much more than just knowing technology. Aside from being an excellent developer, you also have to be a leader.
