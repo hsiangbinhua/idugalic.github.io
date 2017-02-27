@@ -5,14 +5,14 @@ permalink: /projects/
 ---
 
 ## [micro-company](http://idugalic.github.io/micro-company/)
-Rest-full, Hipermedia-based, distributed application. Spring boot & cloud. CQRS. Eventsourcing. Axonframework. Event-driven Microservices. Docker.
+Example of rest-full, hipermedia-based, distributed application. Spring boot & cloud. CQRS. Eventsourcing. Axonframework. Event-driven Microservices. Docker.
 
 ## [micro-ecommerce](http://idugalic.github.io/micro-ecommerce/)
-Rest-full, Hipermedia-based, distributed application. Spring boot & cloud. CQRS. Microservices. Docker.
+Example of rest-full, hipermedia-based, distributed application. Spring boot & cloud. CQRS. Microservices. Docker.
 
 
 ## [reactive-company](http://idugalic.github.io/reactive-company/)
-This project is intended to demonstrate best practices for building a reactive web application with Spring platform.
+Example of reactive web application. Spring 5 (spring boot, spring data). Reactive Streams. Docker.
 
 ## [alfresco-hr](http://idugalic.github.io/alfresco-hr/)
-Content management application. Alfresco. BPM.  Sample Human Resources business process
+Example of content management application. Alfresco. BPM.  Sample Human Resources business process
