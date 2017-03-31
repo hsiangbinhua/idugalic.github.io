@@ -1,6 +1,7 @@
 ---
-layout: post
 title: Being a software architect
+date: 2016-10-24 00:00:00 Z
+layout: post
 ---
 
 Being a software architect involves much more than just knowing technology. Aside from being an excellent developer, you also have to be a leader.

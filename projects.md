@@ -1,8 +1,9 @@
 ---
-layout: page
 title: Projects
-permalink: /projects/
+permalink: "/projects/"
+layout: page
 ---
+
 Explore my list of open source applications and projects.
 
 ## [micro-company](http://idugalic.github.io/micro-company/)

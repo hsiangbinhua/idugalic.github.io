@@ -1,7 +1,7 @@
 ---
-layout: page
 title: About
-permalink: /about/
+permalink: "/about/"
+layout: page
 ---
 
 **Strategic application architects** need to establish consistent, holistic approaches that enable the flexibility, scalability and versatility that digital business requires.
