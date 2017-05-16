@@ -8,7 +8,7 @@ Explore my list of open source applications and projects.
 
 Contributing to open source can be a rewarding way to learn, teach, and build experience in just about any skill you can imagine.
 
-Them main reasons why I am contributing to open source are to:
+The main reasons why I am contributing to open source are to:
  - Improve existing skills
  - Meet people who are interested in similar things
  - Find mentors and teach others
