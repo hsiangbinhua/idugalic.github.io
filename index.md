@@ -1,7 +1,6 @@
 ---
+permalink: "/"
 layout: page
-title:
-permalink: /
 ---
 
 Being a software architect involves much more than just knowing technology. Aside from being an excellent developer, you also have to be a leader.
