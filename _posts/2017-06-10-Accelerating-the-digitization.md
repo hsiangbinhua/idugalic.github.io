@@ -1,8 +1,8 @@
 ---
-layout: post
 title: Accelerating the digitization
+date: 2017-06-10 00:00:00 Z
+layout: post
 ---
-
 
 For some executives, it’s about technology. For others, digital is a new way of engaging with customers.
 
